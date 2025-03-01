@@ -32,6 +32,7 @@ def judgment(my_decision, enemy,b):
         print("平局,再试一次吧")
         b = 0
     return b
+
 def main():
     a = True
     while a:
